@@ -41,7 +41,8 @@
             "Journal-First Track": false,
             "NIER Track": false,
             "Research Papers": true,
-            "Tool Demonstration Track": false
+            "Tool Demonstration Track": false,
+            "Workshops": false
         },
         "CISOSE": {
             "IEEE AITest 2025": true,
@@ -120,6 +121,7 @@
             "SAS  Artifact": true,
             "SPLASH OOPSLA": true,
             "SPLASH OOPSLA Artifacts": true,
+            "SPLASH Onward! Essays": false,
             "SPLASH Onward! Papers": true,
             "SPLASH Student Research Competition": true,
             "Workshops": true
@@ -139,6 +141,7 @@
             "RAIE": true,
             "Research Track": true,
             "SE4ADS": true,
+            "SERP4IoT": false,
             "SESoS": true,
             "SRC - ACM Student Research Competition": true,
             "TechDebt Industry Track": true
@@ -250,6 +253,7 @@
     "content_filter": {
         "Abstract": true,
         "Abstract (mandatory)": true,
+        "Abstract Deadline": false,
         "Abstract Due": true,
         "Abstract Submission": true,
         "Abstract Submission Deadline": true,
@@ -346,6 +350,7 @@
         "First Cycle: Notification": true,
         "First Cycle: Revision due": true,
         "First Cycle: Submission": true,
+        "First-round Notification": false,
         "First-round notification": true,
         "FormaliSE 2025": true,
         "Full Paper Submission": true,
@@ -376,6 +381,7 @@
         "Notifications": true,
         "Notifications to authors": true,
         "Paper Abstract Submission": true,
+        "Paper Deadline": false,
         "Paper Notification": true,
         "Paper Submission": true,
         "Paper Submission Deadline": true,
@@ -396,6 +402,7 @@
         "Rebuttal phase": true,
         "Revised Manuscript Submission (for major revisions only)": true,
         "Revised Manuscript Submissions (Major Revisions Only)": true,
+        "Revision Deadline": false,
         "Round 1 - Submissions of Revision": true,
         "Round 2 - Author Notification": true,
         "Round 2 - Paper Submission": true,
@@ -436,9 +443,14 @@
         "Workshop Date": true,
         "Workshop Day": true,
         "Workshop Days": true,
+        "Workshop Paper Camera Ready": false,
+        "Workshop Paper Notification": false,
         "Workshop Paper Notification Deadline": true,
+        "Workshop Paper Submission": false,
         "Workshop Paper Submission Deadline": true,
         "Workshop Papers info to workshop chairs & web chairs": true,
+        "Workshop Proposal Notification": false,
+        "Workshop Proposal Submission": false,
         "Workshop Proposal submissions deadline extended": true,
         "Workshop Proposals online": true,
         "Workshop Session": true,
