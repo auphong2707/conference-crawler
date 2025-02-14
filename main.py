@@ -7,8 +7,7 @@ from lxml import etree
 from ics import Calendar
 
 from utils import *
-from datetime import datetime
-
+ 
 
 # Get the HTML content of the website
 base_url = "https://conf.researchr.org/"
@@ -41,6 +40,7 @@ def fetch_conference_events(conference):
 
             events.append({
                 "conference": conference_name.strip(),
+                "conference_link": conference.find("a").get("href"),
                 "date": event_date.strip(),
                 "track": event_track.strip(),
                 "content": event_content.strip()
@@ -85,7 +85,7 @@ events = [event for event in events if check_filter(event["conference"], event["
 
 calendar = Calendar()
 for event in events:
-    event = create_event(event["conference"], event["date"], event["track"], event["content"])
+    event = create_event(event["conference"], event["conference_link"], event["date"], event["track"], event["content"])
     calendar.events.add(event)
 
 # Save the conference events to a file

@@ -73,12 +73,13 @@ def get_date(event_date):
 
     return year, month, day, hour, minute
     
-def create_event(event_conference, event_date, event_track, event_content):
+def create_event(event_conference, event_conference_link, event_date, event_track, event_content):
     event = Event()
     
     event.name = event_conference + " - " + event_track + " - " + event_content
     event.description = f"""
         Conference: {event_conference}
+        Conference Link: {event_conference_link}
         Date: {event_date}
         Track: {event_track}
     """
