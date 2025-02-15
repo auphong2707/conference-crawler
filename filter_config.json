@@ -221,6 +221,7 @@
             "Workshops": true
         },
         "STAF": {
+            "AI4DPS": false,
             "Agile MDE": true,
             "ECMFA": true,
             "GCM": true,
@@ -425,6 +426,7 @@
         "Submission deadline": true,
         "Submission deadline for talks": true,
         "Submission deadline for war stories": true,
+        "Submission due": false,
         "Submission for major-revision papers": true,
         "Submission of Papers": true,
         "Submission of final Experience Report": true,
