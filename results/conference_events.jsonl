@@ -85,6 +85,7 @@
 {"conference": "ESEIW 2025", "conference_link": "https://conf.researchr.org/home/esem-2025", "date": "Fri 27 Jun 2025", "track": "IDoESE - Doctoral Symposium", "content": "Camera-Ready"}
 {"conference": "ICFP/SPLASH 2025", "conference_link": "https://conf.researchr.org/home/icfp-splash-2025", "date": "Fri 27 Jun 2025", "track": "ICFP  Papers", "content": "Final Decision Notification"}
 {"conference": "ICFP/SPLASH 2025", "conference_link": "https://conf.researchr.org/home/icfp-splash-2025", "date": "Fri 27 Jun 2025", "track": "SPLASH OOPSLA Artifacts", "content": "Submission Round 2"}
+{"conference": "FSE 2025", "conference_link": "https://conf.researchr.org/home/fse-2025", "date": "Fri 28 Feb 2025", "track": "PROMISE", "content": "Submissions Due"}
 {"conference": "FSE 2025", "conference_link": "https://conf.researchr.org/home/fse-2025", "date": "Fri 28 Feb 2025", "track": "Posters", "content": "Submission deadline"}
 {"conference": "ICFP/SPLASH 2025", "conference_link": "https://conf.researchr.org/home/icfp-splash-2025", "date": "Fri 28 Feb 2025", "track": "SPLASH OOPSLA", "content": "Camera Ready R1"}
 {"conference": "ICSE 2025", "conference_link": "https://conf.researchr.org/home/icse-2025", "date": "Fri 28 Feb 2025", "track": "TechDebt Industry Track", "content": "Notification for talks"}
@@ -424,10 +425,6 @@
 {"conference": "CISOSE 2025", "conference_link": "https://conf.researchr.org/home/cisose-2025", "date": "Tue 15 Apr 2025", "track": "IEEE SOSE 2025", "content": "Paper Submission Deadline"}
 {"conference": "STAF 2025", "conference_link": "https://conf.researchr.org/home/staf-2025", "date": "Tue 15 Apr 2025", "track": "ICGT  Research Papers", "content": "Camera Ready"}
 {"conference": "STAF 2025", "conference_link": "https://conf.researchr.org/home/staf-2025", "date": "Tue 15 Apr 2025", "track": "SLE", "content": "Paper Notification"}
-{"conference": "FSE 2025", "conference_link": "https://conf.researchr.org/home/fse-2025", "date": "Tue 18 Feb 2025", "track": "PROMISE", "content": "Abstract Due"}
-{"conference": "ICFP/SPLASH 2025", "conference_link": "https://conf.researchr.org/home/icfp-splash-2025", "date": "Tue 18 Feb 2025", "track": "SPLASH OOPSLA", "content": "Author Notification of Revisions R1"}
-{"conference": "ICSE 2025", "conference_link": "https://conf.researchr.org/home/icse-2025", "date": "Tue 18 Feb 2025", "track": "FormaliSE Research Track", "content": "Early registration deadline"}
-{"conference": "ICSE 2025", "conference_link": "https://conf.researchr.org/home/icse-2025", "date": "Tue 18 Feb 2025", "track": "SERP4IoT", "content": "Early registration"}
 {"conference": "MODELS 2025", "conference_link": "https://conf.researchr.org/home/models-2025", "date": "Tue 19 Aug 2025", "track": "New Ideas and Emerging Results (NIER)", "content": "Author notification"}
 {"conference": "PROFES 2025", "conference_link": "https://conf.researchr.org/home/profes-2025", "date": "Tue 19 Aug 2025", "track": "Research Papers", "content": "Camera-ready"}
 {"conference": "MODELS 2025", "conference_link": "https://conf.researchr.org/home/models-2025", "date": "Tue 2 Sep 2025", "track": "New Ideas and Emerging Results (NIER)", "content": "Camera Ready Due"}
@@ -440,7 +437,6 @@
 {"conference": "PROFES 2025", "conference_link": "https://conf.researchr.org/home/profes-2025", "date": "Tue 23 Sep 2025", "track": "Workshops and Tutorials", "content": "Workshop paper camera-ready"}
 {"conference": "MODELS 2025", "conference_link": "https://conf.researchr.org/home/models-2025", "date": "Tue 24 Jun 2025", "track": "Research Papers", "content": "Author notification"}
 {"conference": "Requirements Engineering 2025", "conference_link": "https://conf.researchr.org/home/RE-2025", "date": "Tue 24 Jun 2025", "track": "Doctoral Symposium", "content": "Notification"}
-{"conference": "FSE 2025", "conference_link": "https://conf.researchr.org/home/fse-2025", "date": "Tue 25 Feb 2025", "track": "PROMISE", "content": "Submissions Due"}
 {"conference": "FSE 2025", "conference_link": "https://conf.researchr.org/home/fse-2025", "date": "Tue 25 Feb 2025", "track": "Research Papers", "content": "Submission for major-revision papers"}
 {"conference": "FSE 2025", "conference_link": "https://conf.researchr.org/home/fse-2025", "date": "Tue 25 Mar 2025", "track": "Industry Papers", "content": "Author notification"}
 {"conference": "FSE 2025", "conference_link": "https://conf.researchr.org/home/fse-2025", "date": "Tue 25 Mar 2025", "track": "Software Engineering Education", "content": "Author notification"}
@@ -469,6 +465,7 @@
 {"conference": "PROFES 2025", "conference_link": "https://conf.researchr.org/home/profes-2025", "date": "Tue 9 Sep 2025", "track": "Workshops and Tutorials", "content": "Workshop paper notifications"}
 {"conference": "ESEIW 2025", "conference_link": "https://conf.researchr.org/home/esem-2025", "date": "Wed 1 Oct 2025", "track": "IDoESE - Doctoral Symposium", "content": "Doctoral Symposium"}
 {"conference": "ASE 2025", "conference_link": "https://conf.researchr.org/home/ase-2025", "date": "Wed 10 Sep 2025", "track": "Tool Demonstration Track", "content": "Author Notification"}
+{"conference": "STAF 2025", "conference_link": "https://conf.researchr.org/home/staf-2025", "date": "Wed 11 Jun 2025", "track": "OOPSLE", "content": "OOPSLE 2025"}
 {"conference": "STAF 2025", "conference_link": "https://conf.researchr.org/home/staf-2025", "date": "Wed 11 Jun 2025 09:00 -  17:00", "track": "AI4DPS", "content": "Workshop"}
 {"conference": "EASE 2025", "conference_link": "https://conf.researchr.org/home/ease-2025", "date": "Wed 12 Mar 2025", "track": "Learnings/Reflections of Evaluation and Assessment projects in Software Engineering", "content": "Submission Deadline"}
 {"conference": "XP 2025", "conference_link": "https://conf.researchr.org/home/xp-2025", "date": "Wed 12 Mar 2025", "track": "Posters", "content": "Submission deadline"}

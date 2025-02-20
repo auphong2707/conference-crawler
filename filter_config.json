@@ -234,6 +234,7 @@
             "ICMM": true,
             "LLM4SE": true,
             "OCL": true,
+            "OOPSLE": false,
             "SLE": true,
             "TTC": true
         },
@@ -386,6 +387,7 @@
         "Notification to authors": true,
         "Notifications": true,
         "Notifications to authors": true,
+        "OOPSLE 2025": false,
         "Paper Abstract Submission": true,
         "Paper Deadline": false,
         "Paper Notification": true,
