@@ -49,6 +49,7 @@
             "IEEE BigDataService 2025": true,
             "IEEE DAPPS 2025": true,
             "IEEE IMC 2025": true,
+            "IEEE ISADS 2025": false,
             "IEEE JCC 2025": true,
             "IEEE SOSE 2025": true
         },
@@ -154,6 +155,7 @@
             "Journal First Track": true,
             "NIER Track": true,
             "Research Papers Track": true,
+            "SCAM Research Track": false,
             "Tool Demonstration Track": true
         },
         "ICST": {
@@ -207,6 +209,7 @@
         },
         "PROFES": {
             "Doctoral Symposium": true,
+            "Industry Papers": false,
             "Research Papers": false,
             "Short Papers and Posters": true,
             "Workshops and Tutorials": true
@@ -315,6 +318,7 @@
         "Camera-ready abstracts and posters": true,
         "Camera-ready and author registration": true,
         "Camera-ready and author\u2019s registration": true,
+        "Camera-ready copies due": false,
         "Camera-ready deadline": true,
         "Camera-ready paper": true,
         "Camera-ready papers": true,
